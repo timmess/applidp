@@ -1,0 +1,34 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Noto Serif', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Quicksand', serif;
+    font-size: 1rem;
+}
+
+header{
+    height: 100px;
+    padding: 30px;
+    font-size: 1.5rem;
+    margin-bottom: 100px;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+
+
+header a:hover{
+    font-size: 1.05rem;
+}
+
+footer{
+    height: 100px;
+    padding: 30px;
+    font-size: 1.5rem;
+    margin-top: 100px;
+    background: black;
+}
+
+footer p{
+    color: white;
+}
